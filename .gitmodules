@@ -1,0 +1,3 @@
+[submodule "tron_lib"]
+	path = tron_lib
+	url = https://github.com/fastserial/lite3.git
