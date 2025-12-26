@@ -32,3 +32,6 @@ Thumbs.db
 .idea/
 *.iml
 .vscode/
+
+# Sample files
+examples/large.json
